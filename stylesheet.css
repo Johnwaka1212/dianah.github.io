@@ -1,0 +1,110 @@
+ body{
+background-color:slateblue;
+img:center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+
+
+h1{
+color:red;
+text-size:300px;
+text-align:center;
+}
+
+h2{
+color:tomato;
+text-align:center;
+}
+
+p{
+color:blue;
+text-align:center;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+.article {
+    text-align: left;
+}
+footer {background: #aaa;color:white;}
+
+navbar{
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+.logo  img{
+  border-width: 100%;
+  border-height: 10%;
+  border-radius: 50%;
+}
+.background-image: {
+  border-width: 100%
+  border-height: 100%
+  border-radius: 50%
+}
+.pic img{
+  width: 100%
+}
+body
+{
+  background-image: url(C:\Users\HP\Desktop\wamalwa\background.jpg.JPG);
+  background-size: cover;
+  background-position:right;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+#text{
+background-color: black;
+
+
+}
